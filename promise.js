@@ -46,14 +46,6 @@ function getCustomer() {
   })
   } 
 
-
-
-
-
-
-
-
-
 // getCustomer(1, (customer) => {
 //     console.log('customer: ', customer);
 //     if (customer.isPremium) {
