@@ -45,18 +45,10 @@ function getCustomer() {
     }, 6000)
   })
   } 
-// getCustomer()
-//   .then((customer) => {
-//     console.log(customer);
-//     getTopMovies(customer)
-//     .then((movies)=>{
-//       console.log(movies);
-//       sendEmail(customer.email)
-//       .then ((message) => {
-//         console.log(message)
-//       })
-//     })
-//   })
+
+
+
+
 
 
 
